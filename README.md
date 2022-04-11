@@ -10,7 +10,7 @@ Clickable link to the main PayPal page https://www.paypal.com/ru/home.
 Text in the corporate style of PayPal and a picture with a cat.
 
 
-#Whack-a-mole game
+# Whack-a-mole game
 
 ### Feature 1
 
